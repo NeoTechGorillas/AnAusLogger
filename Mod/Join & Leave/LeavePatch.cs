@@ -16,9 +16,19 @@ namespace PlayerJoinandLeaveBANANAOS.Join___Leave
             {
                 if (Page.NotisEnabled)
                 {
-                    BananaNotifications.DisplayNotification("<align=center><size=4>"
-                        + otherPlayer.NickName.ToLower()
-                        + " has left.", Color.red, Color.white, .7f);
+                    if (Page.LowercaseNames)
+                    {
+                        BananaNotifications.DisplayNotification("<align=center><size=4>"
+                            + otherPlayer.NickName.ToLower()
+                            + " has left.", Color.red, Color.white, .7f);
+                    }
+                    else
+                    {
+                        BananaNotifications.DisplayNotification("<align=center><size=4>"
+                            + otherPlayer.NickName
+                            + " HAS LEFT.", Color.red, Color.white, .7f);
+                    }
+
                 }
                 lastLeftPlayer = otherPlayer;
             }

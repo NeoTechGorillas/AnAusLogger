@@ -7,7 +7,6 @@ namespace PlayerJoinandLeaveBANANAOS.Mod
     public class Main : BaseUnityPlugin
     {
         private static BepInEx.Logging.ManualLogSource _logger = new BepInEx.Logging.ManualLogSource(ModInfo.Name);
-        public static bool IsModdedRoom;
 
         void Start()
         {
@@ -23,10 +22,7 @@ namespace PlayerJoinandLeaveBANANAOS.Mod
 
         private void Update()
         {
-            if (IsModdedRoom)
-            {
-                _logger.LogInfo("Player Has Entered a Modded Lobby");
-            }
+            
         }
 
         public static new BepInEx.Logging.ManualLogSource Logger => _logger;
