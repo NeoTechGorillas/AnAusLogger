@@ -4,6 +4,10 @@
 	  <TargetFramework>netstandard2.1</TargetFramework>
   </PropertyGroup>
 
+	<ItemGroup>
+		<PackageReference Include="BepInEx.AssemblyPublicizer.MSBuild" Version="0.4.2" PrivateAssets="all" />
+	</ItemGroup>
+	
   <ItemGroup>
     <Reference Include="0Harmony">
       <HintPath>$(BepInExAssemblyPath)\0Harmony.dll</HintPath>
@@ -17,7 +21,7 @@
     <Reference Include="BakeryRuntimeAssembly">
       <HintPath>$(GameAssemblyPath)\BakeryRuntimeAssembly.dll</HintPath>
     </Reference>
-    <Reference Include="BananaOS">
+	  <Reference Include="BananaOS" Publicize="true">
       <HintPath>C:\Program Files\Oculus\Software\Software\another-axiom-gorilla-tag\BepInEx\plugins\BananaOS.dll</HintPath>
     </Reference>
     <Reference Include="BepInEx">

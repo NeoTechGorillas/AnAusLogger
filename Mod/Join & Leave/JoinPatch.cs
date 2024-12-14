@@ -3,6 +3,7 @@ using HarmonyLib;
 using Photon.Pun;
 using Photon.Realtime;
 using PlayerJoinandLeaveBANANAOS.Mod;
+using System;
 using UnityEngine;
 
 namespace PlayerJoinandLeaveBANANAOS.Join___Leave
@@ -10,27 +11,34 @@ namespace PlayerJoinandLeaveBANANAOS.Join___Leave
     [HarmonyPatch(typeof(MonoBehaviourPunCallbacks), "OnPlayerEnteredRoom")]
     public class JoinPatch
     {
-        private static void Prefix(Player newPlayer)
+        private static void Postfix(ref Player newPlayer)
         {
-            if (newPlayer != lastJoinedPlayer)
+            try
             {
-                if (Page.NotisEnabled)
+                if (newPlayer != lastJoinedPlayer)
                 {
-                    if (Page.LowercaseNames)
+                    if (Page.NotisEnabled)
                     {
-                        BananaNotifications.DisplayNotification("<align=center><size=4>"
-                            + newPlayer.NickName.ToLower()
-                            + " has joined!", Color.green, Color.white, .7f);
-                    }
-                    else
-                    {
-                        BananaNotifications.DisplayNotification("<align=center><size=4>"
-                            + newPlayer.NickName
-                            + " HAS JOINED!", Color.green, Color.white, .7f);
-                    }
+                        if (Page.LowercaseNames)
+                        {
+                            BananaNotifications.DisplayNotification("<align=center><size=4>"
+                                + newPlayer.NickName.ToLower()
+                                + " has joined!", Color.green, Color.white, .7f);
+                        }
+                        else
+                        {
+                            BananaNotifications.DisplayNotification("<align=center><size=4>"
+                                + newPlayer.NickName
+                                + " HAS JOINED!", Color.green, Color.white, .7f);
+                        }
 
+                    }
+                    lastJoinedPlayer = newPlayer;
                 }
-                lastJoinedPlayer = newPlayer;
+            }
+            catch (Exception e)
+            {
+                Main.Logger.LogError(e);
             }
         }
 

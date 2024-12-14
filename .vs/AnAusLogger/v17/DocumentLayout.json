@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\",
+  "WorkspaceRootPath": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|d:\\coding\\repos\\gtmods\\anauslogger\\anauslogger\\mod\\join \u0026 leave\\leavepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|solutionrelative:mod\\join \u0026 leave\\leavepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|d:\\coding\\repos\\gtmods\\anauslogger\\anauslogger\\mod\\join \u0026 leave\\joinpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|e:\\coding\\repos\\gtmods\\anauslogger\\anauslogger\\mod\\join \u0026 leave\\joinpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|solutionrelative:mod\\join \u0026 leave\\joinpatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|d:\\coding\\repos\\gtmods\\anauslogger\\anauslogger\\mod\\watchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|e:\\coding\\repos\\gtmods\\anauslogger\\anauslogger\\mod\\join \u0026 leave\\leavepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|solutionrelative:mod\\join \u0026 leave\\leavepatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|e:\\coding\\repos\\gtmods\\anauslogger\\anauslogger\\patches\\harmonypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|solutionrelative:patches\\harmonypatches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|e:\\coding\\repos\\gtmods\\anauslogger\\anauslogger\\modinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|solutionrelative:modinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|e:\\coding\\repos\\gtmods\\anauslogger\\anauslogger\\mod\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|solutionrelative:mod\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|e:\\coding\\repos\\gtmods\\anauslogger\\anauslogger\\mod\\watchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|solutionrelative:mod\\watchpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|d:\\coding\\repos\\gtmods\\anauslogger\\anauslogger\\mod\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|solutionrelative:mod\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|e:\\coding\\repos\\gtmods\\anauslogger\\anauslogger\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|e:\\coding\\repos\\gtmods\\anauslogger\\anauslogger\\anauslogger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C0C495C4-CE0D-425A-BA2B-72A9BE6EA4A6}|AnAusLogger.csproj|solutionrelative:anauslogger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +58,36 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModInfo.cs",
+              "DocumentMoniker": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\ModInfo.cs",
+              "RelativeDocumentMoniker": "ModInfo.cs",
+              "ToolTip": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\ModInfo.cs",
+              "RelativeToolTip": "ModInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T23:29:45.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".gitignore",
+              "DocumentMoniker": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-14T23:29:31.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
@@ -50,60 +96,88 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{f4fc5ff1-28ef-4b04-ad02-6b298310ccc7}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "AnAusLogger.csproj",
+              "DocumentMoniker": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\AnAusLogger.csproj",
+              "RelativeDocumentMoniker": "AnAusLogger.csproj",
+              "ToolTip": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\AnAusLogger.csproj",
+              "RelativeToolTip": "AnAusLogger.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-04T20:46:21.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HarmonyPatches.cs",
+              "DocumentMoniker": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Patches\\HarmonyPatches.cs",
+              "RelativeDocumentMoniker": "Patches\\HarmonyPatches.cs",
+              "ToolTip": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Patches\\HarmonyPatches.cs",
+              "RelativeToolTip": "Patches\\HarmonyPatches.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:34:00.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "LeavePatch.cs",
-              "DocumentMoniker": "D:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\Join \u0026 Leave\\LeavePatch.cs",
+              "DocumentMoniker": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\Join \u0026 Leave\\LeavePatch.cs",
               "RelativeDocumentMoniker": "Mod\\Join \u0026 Leave\\LeavePatch.cs",
-              "ToolTip": "D:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\Join \u0026 Leave\\LeavePatch.cs",
+              "ToolTip": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\Join \u0026 Leave\\LeavePatch.cs",
               "RelativeToolTip": "Mod\\Join \u0026 Leave\\LeavePatch.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T18:50:30.268Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "JoinPatch.cs",
-              "DocumentMoniker": "D:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\Join \u0026 Leave\\JoinPatch.cs",
+              "DocumentMoniker": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\Join \u0026 Leave\\JoinPatch.cs",
               "RelativeDocumentMoniker": "Mod\\Join \u0026 Leave\\JoinPatch.cs",
-              "ToolTip": "D:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\Join \u0026 Leave\\JoinPatch.cs",
+              "ToolTip": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\Join \u0026 Leave\\JoinPatch.cs",
               "RelativeToolTip": "Mod\\Join \u0026 Leave\\JoinPatch.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T18:50:27.17Z"
+              "WhenOpened": "2024-12-04T18:50:27.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "WatchPage.cs",
-              "DocumentMoniker": "D:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\WatchPage.cs",
+              "DocumentMoniker": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\WatchPage.cs",
               "RelativeDocumentMoniker": "Mod\\WatchPage.cs",
-              "ToolTip": "D:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\WatchPage.cs",
+              "ToolTip": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\WatchPage.cs",
               "RelativeToolTip": "Mod\\WatchPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T18:50:23.08Z"
+              "WhenOpened": "2024-12-04T18:50:23.08Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Main.cs",
-              "DocumentMoniker": "D:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\Main.cs",
+              "DocumentMoniker": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\Main.cs",
               "RelativeDocumentMoniker": "Mod\\Main.cs",
-              "ToolTip": "D:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\Main.cs",
+              "ToolTip": "E:\\Coding\\repos\\Gtmods\\AnAusLogger\\AnAusLogger\\Mod\\Main.cs",
               "RelativeToolTip": "Mod\\Main.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T18:50:18.472Z"
+              "WhenOpened": "2024-12-04T18:50:18.472Z",
+              "EditorCaption": ""
             }
           ]
         }
